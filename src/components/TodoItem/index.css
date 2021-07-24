@@ -1,0 +1,16 @@
+.li {
+  margin: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.btn {
+  border: skyblue solid 2px;
+  color: blue;
+  border-radius: 10px;
+  padding: 10px;
+}
+.para {
+  color: red;
+  margin: 10px;
+}
